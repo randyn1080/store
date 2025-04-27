@@ -12,6 +12,6 @@ public class HomeController {
     }
 
     private String getViewName() {
-        return "index";
+        return "index.html";
     }
 }
